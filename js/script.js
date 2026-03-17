@@ -89,11 +89,6 @@ document.addEventListener('DOMContentLoaded', () => {
         "image": "images/lineup/Joey Hostile 3000.png",
         "soundcloud": "https://soundcloud.com/johannes-franziskus-diemberger"
       }
-      // {
-      //   "name": "Charly",
-      //   "image": "images/lineup/Charly.png",
-      //   "soundcloud": "https://soundcloud.com/charlybrezel"
-      // }
     ];
 
     if (lineupContainer) {
