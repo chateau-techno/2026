@@ -105,12 +105,12 @@ document.addEventListener('DOMContentLoaded', () => {
         "soundcloud": null
       },
       {
-        "name": "s'mohniii",
+        "name": "s'mohniii (live)",
         "image": "images/lineup/smohniii.svg",
         "soundcloud": null
       },
       {
-        "name": "Michi",
+        "name": "Michi (live)",
         "image": "images/lineup/Michi.svg",
         "soundcloud": null
       }
