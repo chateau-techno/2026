@@ -88,6 +88,31 @@ document.addEventListener('DOMContentLoaded', () => {
         "name": "Joey Hostile 3000",
         "image": "images/lineup/Joey Hostile 3000.png",
         "soundcloud": "https://soundcloud.com/johannes-franziskus-diemberger"
+      },
+      {
+        "name": "Mark Radion",
+        "image": "images/lineup/mark_radion.png",
+        "soundcloud": "https://soundcloud.com/mark_radion"
+      },
+      {
+        "name": "New Relationship Energy",
+        "image": "images/lineup/new_relationship_energy.png",
+        "soundcloud": "https://soundcloud.com/newrelationshipenergy"
+      },
+      {
+        "name": "Don Conditione",
+        "image": "images/lineup/Don Conditione.svg",
+        "soundcloud": null
+      },
+      {
+        "name": "s'mohniii",
+        "image": "images/lineup/smohniii.svg",
+        "soundcloud": null
+      },
+      {
+        "name": "Michi",
+        "image": "images/lineup/Michi.svg",
+        "soundcloud": null
       }
     ];
 
