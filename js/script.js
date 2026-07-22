@@ -113,6 +113,11 @@ document.addEventListener('DOMContentLoaded', () => {
         "name": "Michi (live)",
         "image": "images/lineup/Michi.svg",
         "soundcloud": null
+      },
+      {
+        "name": "Astrid & Amorle",
+        "image": "images/lineup/Astrid & Amorle.svg",
+        "soundcloud": null
       }
     ];
 
